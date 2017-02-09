@@ -11,10 +11,9 @@ email: redcrystalsword126@1791.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello guys! I created this site using Jekyll and Github Pages. I'm mostly going to be using it for test purposes
   (New to web development).
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "http://redcrystalsword.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "#" # the subpath of your site, e.g. /blog
+url: "http://redcrystalsword.github.io" # the base hostname & protocol for your site
+github_username:  RedCrystalSword
 
 # Build settings
 markdown: kramdown
